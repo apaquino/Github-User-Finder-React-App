@@ -1,0 +1,33 @@
+{
+  "name": "first-full-react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apaquino/first-full-react-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apaquino/first-full-react-app/issues"
+  },
+  "homepage": "https://github.com/apaquino/first-full-react-app#readme",
+  "dependencies": {
+    "axios": "^0.5.4",
+    "firebase": "^2.2.7",
+    "re-base": "^1.0.0",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "reactfire": "^0.4.0"
+  },
+  "devDependencies": {
+    "babel-core": "^5.6.15",
+    "babel-loader": "^5.3.0",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.10.1"
+  }
+}
